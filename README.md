@@ -73,6 +73,7 @@
 
 ## 🏆 Certifications & Training  
 
+- Embedded Systems Diploma **Eng:Ahmed Abd-ElGhafar**    (12.2023 - 12.2024)
 - Artificial Intelligence (AI) Summer Training — **ITI** (07.2025 – 08.2025)  
 - Microsoft Machine Learning — **DEPI** (06.2025 – 01.2025)  
 - Generative AI Summer Training — **ITI** (08.2025 – 09.2025)  
